@@ -1,0 +1,27 @@
+header{
+    height: 180px;
+    background-color: hsl(212deg 100% 65%);
+    background-image: url('img/pattern.png');
+    background-size: ;
+}
+
+header img{
+    width: 300px;
+    padding-top: 100px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+#title h4{
+    font-weight:bold;
+    font-size: 30px;
+    color:gray;
+    line-height: 0;
+}
+
+#title p{
+    color: gray;
+    line-height: 0;
+}
