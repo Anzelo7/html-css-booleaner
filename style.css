@@ -9,7 +9,7 @@ header img{
     padding-top: 100px;
 }
 
-h1{
+#title h1{
     font-size: 60px;
 }
 
@@ -46,4 +46,28 @@ th{
 h2{
     font-weight: 600;
     color: grey;
+}
+
+#monitor{
+    position: relative;
+}
+
+#monitor h3{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#graph{
+    position: relative; 
+}
+
+#graph h3{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
