@@ -2,7 +2,6 @@ header{
     height: 180px;
     background-color: hsl(212deg 100% 65%);
     background-image: url('img/pattern.png');
-    background-size: ;
 }
 
 header img{
@@ -11,7 +10,7 @@ header img{
 }
 
 h1{
-    font-size: 80px;
+    font-size: 60px;
 }
 
 #title h4{
@@ -27,10 +26,11 @@ h1{
 }
 
 #timphoto :first-child{
-    width: 900px;
-    height: 700px;
+    width: 700px;
+    height: 550px;
 }
 
 #timphoto :last-child{
-    width: 900px;
+    width: 700px;
+    height: 550px
 }
