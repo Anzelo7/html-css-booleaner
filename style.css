@@ -34,3 +34,16 @@ h1{
     width: 700px;
     height: 550px
 }
+
+th{
+    background-color: #00b8ff;
+}
+
+.row{
+    background-color: aqua;
+}
+
+h2{
+    font-weight: 600;
+    color: grey;
+}
