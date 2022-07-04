@@ -25,3 +25,12 @@ h1{
     color: gray;
     line-height: 0;
 }
+
+#timphoto :first-child{
+    width: 900px;
+    height: 700px;
+}
+
+#timphoto :last-child{
+    width: 900px;
+}
