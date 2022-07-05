@@ -1,0 +1,91 @@
+/*css default*/
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+/*header*/
+header{
+    height: 180px;
+    background-color: hsl(212deg 100% 65%);
+    background-image: url('img/pattern.png');
+}
+
+header img{
+    width: 300px;
+    padding-top: 100px;
+}
+/*/header*/
+
+/*main*/
+
+/*title*/
+#title h1{
+    font-size: 60px;
+}
+
+#title h4{
+    font-weight:bold;
+    font-size: 30px;
+    color:gray;
+    line-height: 0;
+}
+
+#title p{
+    color: gray;
+    line-height: 0;
+}
+
+#timphoto :first-child{
+    width: 700px;
+    height: 550px;
+}
+
+#timphoto :last-child{
+    width: 700px;
+    height: 550px
+}
+/*/title*/
+
+/*central text*/
+th{
+    background-color: #00b8ff;
+}
+
+.row{
+    background-color: aqua;
+}
+/*/central text*/
+
+/*/main*/
+
+/*footer*/
+h2{
+    font-weight: 600;
+    color: grey;
+}
+
+#monitor{
+    position: relative;
+}
+
+#monitor h3{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#graph{
+    position: relative; 
+}
+
+#graph h3{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*/footer*/
